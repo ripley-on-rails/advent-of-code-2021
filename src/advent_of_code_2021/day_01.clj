@@ -1,4 +1,4 @@
-(ns advent-of-code-2021.day-01.core
+(ns advent-of-code-2021.day-01
   (:require [clojure.string :as str]))
 
 (defn slurp-input []
